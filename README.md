@@ -6,7 +6,7 @@ This repository is for sharing my Windows parts - hopefully making them easy to 
 ## Calculator Icon Windows, Computer Icons, Free, ICO, PNG
 ## Parts
 * calculator-icon-windows-001.ico
-* calculator-icon-general-use-001.png
+* calculator-icon-general_use-001.png
  
 [Download](calculator-icons-001.zip)
 
